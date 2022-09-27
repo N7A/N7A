@@ -49,6 +49,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/SonarQube-white?style=for-the-badge&logo=SonarQube&logoColor=4E9BCD)
 
 ## *IDE*
 
@@ -71,6 +72,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/QueryDSL-0085c9?style=for-the-badge)
+![](https://img.shields.io/badge/Code_Climate-000000?style=for-the-badge&logo=code-climate&logoColor=white)
 
 <!--
 # 📫 Reach me on
