@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/QueryDSL-0085c9?style=for-the-badge)
 ![](https://img.shields.io/badge/Code_Climate-000000?style=for-the-badge&logo=code-climate&logoColor=white)
 ![](https://img.shields.io/badge/Liquibase-2962FF?style=for-the-badge&logo=liquibase&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 <!--
 # 📫 Reach me on
